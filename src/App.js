@@ -11,6 +11,20 @@ function App() {
         <div className="Buttons-Container">
           <div className="Button-Row">
             <div className="Button">
+              C
+            </div>
+            <div className="Button">
+              %
+            </div>
+            <div className="Button">
+              /
+            </div>
+            <div className="Button">
+              X
+            </div>
+          </div>
+          <div className="Button-Row">
+            <div className="Button">
               7
             </div>
             <div className="Button">
@@ -20,7 +34,7 @@ function App() {
               9
             </div>
             <div className="Button">
-              X
+              -
             </div>
           </div>
           <div className="Button-Row">
@@ -34,7 +48,7 @@ function App() {
               6
             </div>
             <div className="Button">
-              -
+              +
             </div>
           </div>
           <div className="Button-Row">
@@ -48,7 +62,7 @@ function App() {
               3
             </div>
             <div className="Button">
-              +
+              0
             </div>
           </div>
         </div>

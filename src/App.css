@@ -2,20 +2,26 @@ Body {
   /* background-color: black; */
   display: flex;
   justify-content: center;
+  font-size: 1.5em;
 }
 
 .App {
-  /* display: flex; */
-  background-color: black;
+  padding-top: 50%;
   /* align-content: center; */
 }
 
 .Calculator {
   background-color: blue;
+  /* top: 50%; */
+  
 }
 
 .Display {
   background-color: darkgray;
+  height: 7vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .Buttons-Container {
@@ -29,8 +35,8 @@ Body {
 }
 
 .Button {
-  height: 3em;
-  width: 3em;
+  height: 4em;
+  width: 5rem;
   display: flex;
   justify-content: center;
   align-items: center;
